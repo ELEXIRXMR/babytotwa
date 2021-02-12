@@ -13,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "RAMLAN",
+  "author": "VBOT_HENTAI",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan666/babybot.git"
+    "url": "git+https://github.com/ELEXIRXMR/profile.git"
   },
   "bugs": {
-    "url": "https://github.com/Ramlan666/babybot/issues"
+    "url": "https://github.com/ELEXIRXMR/babytotwa/issues"
   },
-  "homepage": "https://github.com/Ramlan666/babybot/readme",
+  "homepage": "https://github.com/ELEXIRXMR/profile/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
