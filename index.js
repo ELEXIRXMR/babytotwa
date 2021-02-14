@@ -44,7 +44,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'FN:VBOT_HENTAI\n' 
 // JAN NGEYEL AJG
             + 'ORG:OWNER BOTZ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6288219149952:+62 882-1914-9952\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6283144574743:+62 831-4457-4743\n' 
             + 'END:VCARD' 
 prefix = '!'
 blocked = []   
@@ -55,7 +55,7 @@ cr = '*VBOT_HENTAI 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃*'
 /*
 ]=====> SETTINGS <=====[
 */
-const ownerNumber = ["6288219149952@s.whatsapp.net","6288219149952@s.whatsapp.net"]
+const ownerNumber = ["6283144574743@s.whatsapp.net","6283144574743@s.whatsapp.net"]
 const botName = 'VBOT_HENTAI'
 const ownerName = 'MAHA'
 const BarBarKey = 'IDxO1TFYnKADlX4pxcHa' // APIKEY DOWNLOAD FILE
