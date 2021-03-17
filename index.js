@@ -46,10 +46,10 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG:OWNER BOTZ;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6283144574743:+62 831-4457-4743\n' 
             + 'END:VCARD' 
-prefix = '!'
+prefix = '$'
 blocked = []   
 limitawal = 20
-memberlimit = 2
+memberlimit = 12
 cr = '*VBOT_HENTAI 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃*'
 
 /*
